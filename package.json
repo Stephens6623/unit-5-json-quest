@@ -1,0 +1,21 @@
+{
+  "name": "json-quest",
+  "version": "1.0.0",
+  "description": "We will be extending the previous [Creating a JSON](https://online.uprighted.com/lessons/written/creating-json) lab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
